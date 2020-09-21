@@ -1,2 +1,2 @@
-# Algoritmo-de-ordena-o
+# Algoritmo de ordenção
 Neste projeto você poderá visualisar o funcionamento de diferentes algoritmos de ordenação.
